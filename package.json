@@ -1,11 +1,19 @@
 {
+<<<<<<< HEAD
     "name": "api-routing",
+=======
+    "name": "gadgets-page",
+>>>>>>> 8f07997bee0f0e0945b82f91fd60083aa860ec4e
     "version": "1.0.0",
     "description": "",
     "main": "app.js",
     "author": "",
     "license": "ISC",
     "dependencies": {
+<<<<<<< HEAD
         "express": "4.17.1"
+=======
+      "express": "4.17.1"
+>>>>>>> 8f07997bee0f0e0945b82f91fd60083aa860ec4e
     }
 }
